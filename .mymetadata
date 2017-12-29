@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="EasyUiTest"
+  id="myeclipse.1513148675173"
+  context-root="/EasyUiTest"
+  j2ee-spec="5.0"
+  archive="EasyUiTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
